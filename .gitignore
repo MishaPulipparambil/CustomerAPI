@@ -1,0 +1,14 @@
+CustomerAPI\bin
+CustomerAPI\obj\debug
+CustomerAPI\packages
+*.dll
+/CustomerAPI/.vs/CustomerAPI/config
+/CustomerAPI/.vs/CustomerAPI/DesignTimeBuild
+/CustomerAPI/.vs
+/CustomerAPI/.vscode
+/CustomerAPI/bin/Debug/net6.0
+/CustomerAPI/obj
+/CustomerTestProject/bin/Debug/net6.0
+/CustomerTestProject/obj/Debug/net6.0
+/CustomerTestProject/obj
+/.vs
